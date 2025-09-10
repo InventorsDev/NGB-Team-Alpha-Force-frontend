@@ -141,10 +141,12 @@ input {
   border-radius: 5px;
   margin: 10px 0;
   border: 1px solid #ccc;
+  font-family: Montserrat;
 }
 
 label {
   font-weight: 150px;
+  font-family: Montserrat;
 }
 
 .button4 {
